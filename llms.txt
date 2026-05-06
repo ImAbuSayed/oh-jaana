@@ -1,5 +1,9 @@
 # Oh Jaana
 
+![Oh Jaana feature image](https://abusayed.com.bd/wp-content/uploads/2026/05/Oh-Jaana.webp)
+
+---
+
 **An original song written and composed by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -10,10 +14,10 @@
 |-------|---------|
 | Title | Oh Jaana |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
-| Song Page | Pending |
+| Lyric Writing Date | May 06, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/oh-jaana/) |
 | License | [View License](./LICENSE.md) |
-| Get License | Pending |
+| Get License | [Get a Licensing Quote for Oh Jaana](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

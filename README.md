@@ -16,9 +16,10 @@
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | May 06, 2026 |
 | Song Creation Date | May 07, 2026 |
+| Official Release Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/oh-jaana/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Oh Jaana](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Oh Jaana](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=-LUiK57oxr0?https://imabusayed.github.io/oh-jaana/) |
 | Artist | Abu Sayed |
 
 ---
@@ -32,6 +33,13 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Website](https://abusayed.com.bd/projects/oh-jaana/)
+- [YouTube](https://www.youtube.com/watch?v=-LUiK57oxr0)
 
 ---
 

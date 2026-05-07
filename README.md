@@ -18,7 +18,7 @@
 | Song Creation Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/oh-jaana/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Oh Jaana](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Oh Jaana](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

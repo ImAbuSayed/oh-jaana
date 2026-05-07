@@ -69,7 +69,10 @@
         "https://www.linkedin.com/in/imabusayed/",
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
-        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680"
+        "https://abusayed.com.bd/projects/oh-jaana/",
+        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680",
+        "https://www.youtube.com/watch?v=-LUiK57oxr0",
+        "https://music.youtube.com/watch?v=-LUiK57oxr0"
       ]
     },
     {
@@ -94,7 +97,10 @@
         "https://www.linkedin.com/in/imabusayed/",
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
-        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680"
+        "https://abusayed.com.bd/projects/oh-jaana/",
+        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680",
+        "https://www.youtube.com/watch?v=-LUiK57oxr0",
+        "https://music.youtube.com/watch?v=-LUiK57oxr0"
       ]
     },
     {
@@ -186,6 +192,7 @@
       "keywords": "Oh Jaana, Abu Sayed lyrics, original song lyrics, Abu Sayed original song, Abu Sayed lyricist, Abu Sayed composer, Abu Sayed songwriter, official lyrics",
       "image": "https://abusayed.com.bd/wp-content/uploads/2026/05/Oh-Jaana.webp",
       "dateCreated": "2026-05-07",
+      "datePublished": "2026-05-07",
       "dateModified": "2026-05-06T19:32:46.130963",
       "sameAs": [
         "https://abusayed.com.bd",
@@ -204,7 +211,10 @@
         "https://www.linkedin.com/in/imabusayed/",
         "https://www.musixmatch.com/creator/Abu-Sayed-6",
         "https://genius.com/artists/Abu-sayed",
-        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680"
+        "https://abusayed.com.bd/projects/oh-jaana/",
+        "https://suno.com/song/4b8f053b-920e-4ba8-a754-a7cf99d9c680",
+        "https://www.youtube.com/watch?v=-LUiK57oxr0",
+        "https://music.youtube.com/watch?v=-LUiK57oxr0"
       ]
     }
   ]
@@ -523,7 +533,7 @@
         <meta itemprop="copyrightNotice" content="Copyright © 2026 Abu Sayed. All rights reserved. Original lyrics, writing, composition, and creative authorship by Abu Sayed.">
         <meta itemprop="genre" content="Song Lyrics">
         <meta itemprop="dateCreated" content="2026-05-07">
-        
+        <meta itemprop="datePublished" content="2026-05-07">
         <div hidden aria-hidden="true">
             <div itemprop="author composer lyricist creator copyrightHolder byArtist" itemscope itemtype="https://schema.org/Person">
                 <meta itemprop="name" content="Abu Sayed">
@@ -547,8 +557,9 @@
 
         <div class="controls">
             <button class="btn-speak" id="speakBtn" title="Read the lyrics aloud"><span id="speakText">Read Aloud</span></button>
-            <a href="https://music.abusayed.com.bd/Licensing/" class="btn-license" title="Get licensing for this song" target="_blank">Music Rights & Licensing for Oh Jaana</a>
-            
+            <a href="https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=-LUiK57oxr0?https://imabusayed.github.io/oh-jaana/" class="btn-license" title="Get licensing for this song" target="_blank">Obtain a Music License for Oh Jaana</a>
+            <a class="control-btn is-website" href="https://abusayed.com.bd/projects/oh-jaana/" target="_blank" rel="noopener noreferrer" title="Official website for Oh Jaana">Official Site</a>
+            <button class="control-btn is-youtube" id="youtubeModalBtn" type="button" title="Watch Oh Jaana on YouTube">YouTube</button>
         </div>
         <br>
 <center>
@@ -590,6 +601,11 @@
                 
                 <div class="meta-card">
                     <span class="meta-label">Music Created</span>
+                    <strong>May 07, 2026</strong>
+                </div>
+                
+                <div class="meta-card">
+                    <span class="meta-label">Official Release</span>
                     <strong>May 07, 2026</strong>
                 </div>
                 
@@ -653,6 +669,25 @@
         </footer>
     </main>
 
+    <div class="modal-backdrop" id="youtubeModal" aria-hidden="true">
+        <div class="modal-card" role="dialog" aria-modal="true" aria-label="YouTube video player">
+            <button class="modal-close" id="youtubeModalClose" type="button" aria-label="Close video">&times;</button>
+            <div class="video-frame">
+                <iframe
+                    id="youtubeFrame"
+                    src=""
+                    title="Oh Jaana YouTube Video"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            <div class="modal-actions">
+                <a class="modal-link" href="https://www.youtube.com/watch?v=-LUiK57oxr0" target="_blank" rel="noopener noreferrer">Open on YouTube</a>
+                <a class="modal-link" href="https://music.youtube.com/watch?v=-LUiK57oxr0" target="_blank" rel="noopener noreferrer">Play on YouTube Music</a>
+            </div>
+        </div>
+    </div>
+
 
     <script>
         const btn = document.getElementById("speakBtn");
@@ -683,7 +718,7 @@
         const youtubeModalBtn = document.getElementById("youtubeModalBtn");
         const youtubeModalClose = document.getElementById("youtubeModalClose");
         const youtubeFrame = document.getElementById("youtubeFrame");
-        const youtubeEmbedUrl = "";
+        const youtubeEmbedUrl = "https://www.youtube.com/embed/-LUiK57oxr0?autoplay=1&rel=0";
 
         const closeYoutubeModal = () => {
             if (!youtubeModal || !youtubeFrame) {

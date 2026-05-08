@@ -51,7 +51,7 @@
 ## 🔗 Song Links
 
 - [Website](https://abusayed.com.bd/projects/oh-jaana/)
-- [Telegram](https://t.me/AbuSayedMusic/14)
+- [Telegram](https://t.me/AbuSayedMusic/16)
 - [YouTube](https://www.youtube.com/watch?v=-LUiK57oxr0)
 
 ---

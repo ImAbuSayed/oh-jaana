@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Oh Jaana
+
+This log tracks the cryptographic history and versioning for the song **Oh Jaana** (oh-jaana).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T12:03:44.500366 | `v1` | `3e38bac66ee317c935421c489a93924a8c2954d2b8fcde41ec95d65fdc676aef` | `bf35c20599d1f7a89cba850e8f260cd482738655e1480d40495e0585442b0bf0` | `2026-05-08_oh-jaana-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

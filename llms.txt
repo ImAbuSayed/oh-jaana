@@ -21,7 +21,7 @@
 | **Released On** | May 07, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/oh-jaana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Oh Jaana](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=-LUiK57oxr0&https://imabusayed.github.io/oh-jaana/) |
+| **Get License** | [Official Music Licensing for Oh Jaana](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=-LUiK57oxr0&https://imabusayed.github.io/oh-jaana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 

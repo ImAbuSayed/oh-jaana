@@ -21,6 +21,7 @@
     "wp_blog_id": 13063,
     "wp_blog_url": "https://abusayed.com.bd/oh-jaana/",
     "wp_blog_feature_image_id": 13053,
+    "telegram_post_url": null,
     "sha256_hash": "3e38bac66ee317c935421c489a93924a8c2954d2b8fcde41ec95d65fdc676aef",
     "sha256_raw_hash": "bf35c20599d1f7a89cba850e8f260cd482738655e1480d40495e0585442b0bf0",
     "lyric_version": 1,
@@ -44,5 +45,5 @@
     "private_repo_url": "https://github.com/ImAbuSayed/oh-jaana-private",
     "song_title": "Oh Jaana"
   },
-  "generated_at": "2026-05-08T07:09:10Z"
+  "generated_at": "2026-05-08T08:21:43Z"
 }
